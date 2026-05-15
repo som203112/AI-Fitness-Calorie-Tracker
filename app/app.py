@@ -282,5 +282,5 @@ st.plotly_chart(fig4)
 st.write("---")
 
 st.caption(
-    "Built by Soham Kadam using Machine Learning"
+    "Built by Soham Kadam"
 )
