@@ -1,3 +1,4 @@
+[![Live App](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai-fitness-calorie-tracker.streamlit.app)
 # 🔥 AI Fitness Calorie Tracker
 
 An AI-powered fitness analytics application that predicts calories burned during exercise using Machine Learning and physiological data.
